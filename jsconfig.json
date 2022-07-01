@@ -1,0 +1,8 @@
+{
+   "compillerOptions":{"baseUrl":"./src", "paths": {
+    "images/*":["./src/assets/images/*"],
+    "components/*": ["./src/components/*"],
+    "data/*": ["./src/data/*"]
+   }},
+
+}
